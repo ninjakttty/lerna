@@ -1,3 +1,3 @@
-var alpha = require('alpha')
-var beta = require('beta')
-console.log(alpha + " " + beta)
+var alpha = require('@ninjakttty/alpha')
+var beta = require('@ninjakttty/beta')
+console.log(`${alpha} ${beta}`)

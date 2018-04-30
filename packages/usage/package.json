@@ -8,5 +8,12 @@
   },
   "keywords": [],
   "author": "Yuri A. Parsons <yuri@ninjakitty.net> (http://ninjakitty.net/)",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@ninjakttty/alpha": "0.0.1",
+    "@ninjakttty/beta": "0.0.1"
+  }
 }
